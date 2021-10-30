@@ -1,4 +1,4 @@
-### Hi there, I'm Marvin - aka [Pickles][website] 👋
+### Hi there, I'm Marvin - aka <a href="https://github.com/PicklesWithSalt" target="_blank">Pickles</a> 👋
 
 ## I'm a developer and am currently working on my own game
 
