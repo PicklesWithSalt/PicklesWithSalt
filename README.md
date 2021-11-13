@@ -9,7 +9,7 @@
 
 ### Connect with me
 
-<a href="https://discord.gg/TXG4ag9u">My discord server</a>
+<a href="https://discord.gg/ma7NNUHqC7">My discord server</a>
 
 ### Languages and Tools:
 
