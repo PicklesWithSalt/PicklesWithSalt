@@ -1,10 +1,10 @@
 ### Hi there, I'm Marvin - aka <a href="https://github.com/PicklesWithSalt" target="_blank">Pickles</a> 👋
 
-## I'm a developer and am currently working on my own dsicord bot
+## I'm a developer and am currently working on my own discord
 
 **I also...**
 
-- make discord bots.
+- tried making games. (but failed)
 - make websites.
 
 ### Connect with me
