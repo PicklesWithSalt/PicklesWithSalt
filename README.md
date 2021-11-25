@@ -1,6 +1,6 @@
 ### Hi there, I'm Marvin - aka <a href="https://github.com/PicklesWithSalt" target="_blank">Pickles</a> 👋
 
-## I'm a developer and am currently working on my own FPS game
+## I'm a developer and am currently working on my own dsicord bot
 
 **I also...**
 
