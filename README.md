@@ -1,11 +1,6 @@
-### Hi there, I'm Marvin - aka <a href="https://github.com/PicklesWithSalt" target="_blank">Pickles</a> 👋
+### Hi there, I'm Pickles#9644 - aka <a href="https://github.com/PicklesWithSalt" target="_blank">Pickles</a> 👋
 
-## I'm a developer and am currently working on my own discord
-
-**I also...**
-
-- tried making games. (but failed)
-- make websites.
+## I'm a developer and am currently working on my own discord bot
 
 ### Connect with me
 
